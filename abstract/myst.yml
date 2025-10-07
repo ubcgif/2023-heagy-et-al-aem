@@ -13,12 +13,12 @@ project:
         name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
     - name: Johnathan Kuttai
       email: jkutt@eoas.ubc.ca
-      # orcid: ORCID
+      orcid: 0009-0006-6356-944X
       affiliation: ubc
     - name: Devin Cowan
       affiliation: ubc
       email: dcowan@eoas.ubc.ca
-      orcid: ORCID
+      # orcid: ORCID
     - name: Joseph Capriotti
       affiliation: ubc
       orcid: 0000-0003-4762-5377
@@ -37,7 +37,7 @@ project:
       affiliation: ubc
       email: doug@eoas.ubc.ca
       orcid: 0000-0002-4327-2124
-  # banner: banner.png
+  banner: banner.png
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
@@ -49,7 +49,14 @@ project:
   date: 2023-09-07
   abbreviations:
     # DC: direct current
-    # EM: electromagnetics
+    EM: Electromagnetic
+    TMI: Total magnetic intensity
+    DCIP: Direct current resistivity and induced polarization
+    MT: Magnetotellurics
+    AEM: Airborne Electromagnetics
+    FDEM: Frequency Domain Electromagnetics
+    CSAMT: Controlled Source Audiomagneotellurics
+    ZTEM: Z-axis Tipper Electromagnetics
   # github:
   bibliography: refs.bib
   keywords:
