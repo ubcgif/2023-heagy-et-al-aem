@@ -49,7 +49,13 @@ project:
   date: 2023-09-07
   abbreviations:
     # DC: direct current
-    # EM: electromagnetics
+    EM: Electromagnetic
+    TMI: Total magnetic intensity
+    DCIP: Direct current resistivity and induced polarization
+    MT: Magnetotellurics
+    AEM: Airborne Electromagnetics
+    FDEM: Frequency Domain Electromagnetics
+    CSAMT: Controlled Source Audiomagneotellurics
   # github:
   bibliography: refs.bib
   keywords:
