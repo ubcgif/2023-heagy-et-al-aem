@@ -13,12 +13,12 @@ project:
         name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
     - name: Johnathan Kuttai
       email: jkutt@eoas.ubc.ca
-      # orcid: ORCID
+      orcid: 0009-0006-6356-944X
       affiliation: ubc
     - name: Devin Cowan
       affiliation: ubc
       email: dcowan@eoas.ubc.ca
-      orcid: ORCID
+      # orcid: ORCID
     - name: Joseph Capriotti
       affiliation: ubc
       orcid: 0000-0003-4762-5377
@@ -56,6 +56,7 @@ project:
     AEM: Airborne Electromagnetics
     FDEM: Frequency Domain Electromagnetics
     CSAMT: Controlled Source Audiomagneotellurics
+    ZTEM: Z-axis Tipper Electromagnetics
   # github:
   bibliography: refs.bib
   keywords:
